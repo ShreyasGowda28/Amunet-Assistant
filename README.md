@@ -83,10 +83,10 @@ amunet-chatbot/
 ```
 
 ### Contributors
-- Bilwananda (4MH21CS074)
-- Shalom Raj (4MH21CS086)
-- Shreyas MM (4MH21CS093)
-- Shreyas Gowda S (4MH21CS092)
+- Bilwananda 
+- Shalom Raj 
+- Shreyas MM 
+- Shreyas Gowda S
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
